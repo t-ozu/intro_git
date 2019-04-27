@@ -1,2 +1,4 @@
-Git�̗��K�����Ă����܂��B
-��{�I�ȃ��[�N�t���[���w�т܂��B
+﻿Gitの練習をしていきます。
+基本的なワークフローを学びます。
+・git add
+・git commit
